@@ -26,3 +26,18 @@ main > * {
 img {
   max-width: 33%;
 }
+
+h1,
+p,
+a {
+  font-size: 1rem;
+  font-weight: normal;
+  color: #111;
+}
+
+ a {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+ }

@@ -13,8 +13,10 @@ export default function Home() {
       <main>
         {/* <Header title="Welcome to my app!" /> */}
         <p>Coming soon</p>
-        <img src="/muddpearl_soon.jpg" />
-        <h1><a href="http://instagram.com/muddpearl/">@muddpearl</a></h1>
+        <a href="http://instagram.com/muddpearl/">
+          <img src="/muddpearl_soon.jpg" />
+          <h1>@muddpearl</h1>
+        </a>
       </main>
 
       {/* <Footer /> */}
