@@ -6,7 +6,7 @@ export default function Home() {
   return (
     <div className="container">
       <Head>
-        <title>Muddpearl</title>
+        <title>Mudd Pearl</title>
         {/* <link rel="icon" href="/favicon.ico" /> */}
         {/* Global Site Tag (gtag.js) - Google Analytics */}
         <script
